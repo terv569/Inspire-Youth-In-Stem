@@ -1,0 +1,27 @@
+age = 12
+gender = "male"
+
+if(age<18):
+    print("you are adorale")
+else:
+    print("you old as hell")
+
+
+
+
+# compound / multiple conditions
+if((age > 30) & (gender == 'male')):
+    print("you have a wife")
+else:
+    print("you are broke ")
+
+
+
+
+fav_color = 'gray'
+age = 22
+if((fav_color == 'gray') | (age <= 23)):
+    print("happy birthday")
+else:
+    print("fuck you")
+
