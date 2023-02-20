@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 
-# This is a single line comment
+
 # Python programmer to caclulate gross and net income
 # Name : Tervil Moywaywa
 # Email : tervilmoywaywa@gmail.com
-# Date : 17th Feb 2023
+# Date : 20th Feb 2023
 # File : bank.py
 
 # write a program that calculates 16% tax on income
