@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
-
+ 
+# Python program to create lists
+# Name : Tervil Moywaywa
+# Email : tervilmoywaywa@gmail.com
+# Date : 17th Feb 2023
+# File : list revisited.py
 #len
 myFavouriteFruits = ['banana','apple','orange','pear','grape']
 

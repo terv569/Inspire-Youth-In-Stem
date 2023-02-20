@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # This is a single line comment
-# Python Program to illustrate the use of operators
+# Python programmer to caclulate gross and net income
 # Name : Tervil Moywaywa
 # Email : tervilmoywaywa@gmail.com
 # Date : 17th Feb 2023
@@ -17,4 +17,17 @@
 
 # print gross income , net income
 
-income = input("enter your net income")
+income = input("enter your net income:")
+
+income = int(input("Enter your income: "))
+
+if income <= 100000:
+    net_income = income*0.95
+if income <  300000:
+    net_income = income*0.81
+else:
+    net_income = income*0.7
+print("Gross income: " + str(income) + " Net income: " + str(net_income))
+
+
+
