@@ -2,4 +2,4 @@ names=["Tervil,""Mary,""John,""Keith,""Sam,"]
 
 
 
-print(names[:3])
+print(names[3])

@@ -31,3 +31,68 @@ print("difference of the numbers:", diff_num)
 print("product of the numbers:", prod_num)
 print("quotient of the numbers:", quot_num)
 
+# Left shift-divide
+num1 = 64 <<2
+
+
+#right -multiply
+num2 = 64 >>2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ADD &&&
+
+
+
+
+# OR
+
+
+
+
+
+# XOR 
+
+
+
+
+# NOT !
+
+
