@@ -6,6 +6,17 @@
 # Add / remove elements
 # Immutable----> these are data types that cannot be edited during program life cycle
 # 1) list (murtable)
+friends = ["Terv","Max","Rita",]
+# or friends =[]empty list
+# add elements ----> append(), extend()
+# remove elements -----> pop(), del()
+students = ["Max","Sue","Chad",]
+friends.extend
+friends.append
+friends.sort
+friends.reverse
+
+
 # 2)tuples(immutable)
 #type of lists that are immutable
 stationery = ("pens","ink","sharpener","stapler")
@@ -33,14 +44,17 @@ print(friend["course"])
 print(friend["height"])
 
 
+
+
 #name(key) Terv(value)
 # sets
-friends = ["Terv","Max","Rita",]
-# or friends =[]empty list
-# add elements ----> append(), extend()
-# remove elements -----> pop(), del()
-students = ["Max","Sue","Chad",]
-friends.extend
-friends.append
-friends.sort
-friends.reverse
+# used 
+my_fruits = ["banana","pear","apple","orange","pineapple"]
+print(my_fruits)
+
+for fruit in my_fruits:
+    print(fruit)
+
+
+print(type(my_fruits))
+print(len(my_fruits))

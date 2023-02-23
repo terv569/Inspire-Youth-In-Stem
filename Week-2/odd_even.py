@@ -50,9 +50,9 @@ for i in range (0, 49):
 print ("***the values below are  prime numbers***")
 
 for prime_numbers in range (1, 101):
-    if prime_numbers > 1:
+    if prime_numbers > 2:
         for i in range (2,prime_numbers):
-            if (prime_numbers % i): == 0
+             if ( i% 1,2,3,4,5,6,7,8,9):
             break
 else:
     print (prime_numbers)
