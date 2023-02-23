@@ -14,23 +14,16 @@ for x in range(h - 2, -1, -1):
 
 
 import cmath
+print("the general formula is a*x**2 + b*x + c =0 ")
 
-first_coefficient = int(input("enter the first coefficient:"))
-second_coefficient = int(input("enter the second coefficient:"))
-constant = int(input("enter the constant"))
-
-ans1= -abs(second_coefficient) - cmath.sqrt((second_coefficient**2)-(4*first_coefficient*constant))/
-(2*first_coefficient)
-ans2= -abs(second_coefficient) - cmath.sqrt((second_coefficient**2)-(4*first_coefficient*constant))/
-(2*first_coefficient)
-
-print("the answers are"+str(ans1)+" and "+atr(ans2))
+a = int (input("enter a"))
+b = int (input("enter b"))
+c = int (input("enter c"))
 
 
-R = int(input("enter range:"))
-#using for loop to draw a triangle
-for diamond in range
+Sn1  = (-b + cmath.sqrt(b**2 -(4*a*c))) / 2*a 
+Sn2 = (-b - cmath.sqrt(b**2 -(4*a*c))) / 2*a
 
+print ("answer one is :", Sn1)
+print("answer two is :", Sn2)
 
-
-print("the answers are" +str(ans1)+)
