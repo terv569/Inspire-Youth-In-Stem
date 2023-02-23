@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+ 
+# Python program to create lists
+# Name : Tervil Moywaywa
+# Email : tervilmoywaywa@gmail.com
+# Date : 23rd Feb 2023
+# File : functions.py
 # functions
 # Block of code that are executed together
 # functions use key word def

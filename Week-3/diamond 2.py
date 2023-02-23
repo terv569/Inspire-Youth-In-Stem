@@ -4,7 +4,7 @@
 # Name : Tervil Moywaywa
 # Email : tervilmoywaywa@gmail.com
 # Date : 21st Feb 2023
-# File : diamond.py
+# File : diamond 2.py
 h = eval(input("enter diamond's height:"))
 
 for x in range (h):
