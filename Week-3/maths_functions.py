@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
  
-# Python program to create lists
+# Python program to create math functions
 # Name : Tervil Moywaywa
 # Email : tervilmoywaywa@gmail.com
 # Date : 22nd Feb 2023
