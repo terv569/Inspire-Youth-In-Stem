@@ -46,13 +46,18 @@ for i in range (0, 49):
 
 
 #write a program to list all prime numbers from 1-100
+primes = []
+limit = 100
 
-print ("***the values below are  prime numbers***")
 
-for prime_numbers in range (1, 101):
-    if prime_numbers > 2:
-        for i in range (2,prime_numbers):
-             if ( i% 1,2,3,4,5,6,7,8,9):
+for n in range(2,limit+1):
+    isprime = True
+    for divisor in range(2,n):
+        if n % divisor == 0:
+            isprime = False
             break
-else:
-    print (prime_numbers)
+if isprime:
+    primes.append(n)
+
+
+print(primes)
