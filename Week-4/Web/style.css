@@ -1,0 +1,56 @@
+body{
+    background-color:aquamarine;
+    font-weight:bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    
+
+}
+
+h1{
+    font-size: 35px;
+    color:bisque;
+    position:fixed;
+    align-self: first baseline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+
+h2{
+    align-self: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:yellow
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:32px;
+    color:black;
+    background-color: beige;
+    
+
+
+}
+
+
+#message_button{
+    color: springgreen;
+    margin: 100px;
+    background-color: black;
+    border: none;
+    border-radius: 100px;
+    align-self: center;
+    font-size: larger;
+}
+
+#email_button{
+    color: aqua;
+    margin: 100px;
+    background-color: black;
+    border: none;
+    border-radius: 100px;
+    align-self: center;
+    font-size: larger;
+}
+
